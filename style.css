@@ -34,6 +34,14 @@ em{
     font-size: 24px;
 }
 
+.announcement-bar{
+    background-color: rgb(206, 127, 0);
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(101, 64, 5);
+}
+
 .tool-bar{
     background-color: rgb(136, 136, 180);
     padding: 2px;
@@ -92,3 +100,4 @@ em{
     width: auto;
     margin-top: 250px;
 }
+
