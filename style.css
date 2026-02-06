@@ -20,7 +20,6 @@ em{
 .body-container{
     background-color: rgb(236, 236, 236);
     width: 70%;
-    height: 100vh;
     margin: auto;
 }
 
@@ -33,14 +32,6 @@ em{
     color: rgb(255, 255, 255);
     font-family: Microsoft_1987;
     font-size: 24px;
-}
-
-.announcement-bar{
-    background-color: rgb(206, 127, 0);
-    text-align: center;
-    border: 2px;
-    border-style: solid;
-    border-color: rgb(101, 64, 5);
 }
 
 .tool-bar{
@@ -85,4 +76,19 @@ em{
 .b-header{
     font-size: 18px;
     margin-left: 20px;
+}
+
+.downloadbutton{
+    margin-left: 20px;
+    padding: 10px;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.footer{
+    background-color: rgb(127, 111, 142);
+    bottom: 0;
+    width: auto;
+    margin-top: 250px;
 }
